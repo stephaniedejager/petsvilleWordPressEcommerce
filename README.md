@@ -4,7 +4,7 @@ Real Client work - WordPress Woocommerce site built for a client that sells pet 
 
 Original work delivered: http://54.73.119.134/
 
-Home
+<h2>Home</h2>
 
 ![image](https://user-images.githubusercontent.com/68548733/166810655-6b0eeb98-31f5-43da-aeae-677c93d0ab8d.png)
 
