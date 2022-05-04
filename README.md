@@ -16,29 +16,34 @@ Original work delivered: http://54.73.119.134/
 
 ![image](https://user-images.githubusercontent.com/68548733/166811357-c3b03901-6480-4b9a-9315-82b72b59aeeb.png)
 
-About
+<br />
+<h2>About</h2>
 
 ![image](https://user-images.githubusercontent.com/68548733/166811700-a18c5827-8f59-4fcb-9c97-beb66562b82d.png)
 
 ![image](https://user-images.githubusercontent.com/68548733/166811787-ff4712a8-7d9d-4b23-975b-de692af65b31.png)
 
-Menu
+<br />
+<h2>Menu</h2>
 
 ![image](https://user-images.githubusercontent.com/68548733/166812346-33e86338-67a7-4a8b-80ec-48df8c4c7557.png)
 
-Contact
+<br />
+<h2>Contact</h2>
 
 ![image](https://user-images.githubusercontent.com/68548733/166812759-6f9ca11c-6e0a-4577-acb5-1c7421b35234.png)
 
-Product
+<br />
+<h2>Product</h2>
 
 I used swatches for variations, instead of the default Woocommerce buttons to make the user experience better
 
 ![image](https://user-images.githubusercontent.com/68548733/166813007-02ca8955-f63a-47a1-9b4f-8f95e2b658b1.png)
 
 
-The client wanted a way to have customers make custom orders (request for quote), but didn't want to pay extra for plugin and 
-I had to get creative with the design to make this happen.
+<br />
+<h2>The client wanted a way to have customers make custom orders (request for quote), but didn't want to pay extra for plugin and 
+I had to get creative with the design to make this happen.</h2>
 
 http://54.73.119.134/custom-cat-scratcher/
 
