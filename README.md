@@ -42,8 +42,8 @@ I used swatches for variations, instead of the default Woocommerce buttons to ma
 
 
 <br />
-<h2>The client wanted a way to have customers make custom orders (request for quote), but didn't want to pay extra for plugin and 
-I had to get creative with the design to make this happen.</h2>
+The client wanted a way to have customers make custom orders (request for quote), but didn't want to pay extra for plugin and 
+I had to get creative with the design to make this happen.
 
 http://54.73.119.134/custom-cat-scratcher/
 
